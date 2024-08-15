@@ -1,0 +1,39 @@
+body {
+  background-color: #405d72;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+}
+
+h1 {
+  color: #f7e7dc;
+}
+
+p {
+  color: #f7e7dc;
+}
+
+.center-header {
+  display: flex;
+  justify-content: center;
+}
+
+.orta1 {
+  text-align: center;
+}
+
+h2 {
+  color: #eeedeb;
+}
+
+ol {
+  color: #f7e7dc;
+}
+
+ul {
+  color: #f7e7dc;
+}
